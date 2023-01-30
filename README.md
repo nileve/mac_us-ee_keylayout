@@ -31,3 +31,5 @@ mkdir -p ~/Library/Keyboard\ Layouts; \
 | ⇧ + ⌥ + z          |      Ž        |
 
 Created with the Ukelele OS X keyboard layout editor.
+
+Took inspiration from https://github.com/madisp/us-ee-keylayout-osx.git
