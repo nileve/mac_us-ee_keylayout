@@ -31,7 +31,9 @@ Or download the disk image installer: US_with_EE-letters_installer.dmg
 | ⇧ + ⌥ + s          |      Š        |
 | ⇧ + ⌥ + z          |      Ž        |
 
-<img width="590" alt="us-ee" src="https://user-images.githubusercontent.com/14870879/215759644-5d78e640-2ddf-4d0f-bb06-6a7aafd8e668.png">
+<img width="588" alt="us-ee" src="https://user-images.githubusercontent.com/14870879/215778302-5ffc0d73-ad22-44f8-94db-260d67f25385.png">
+
+<img width="588" alt="us-ee_Alt" src="https://user-images.githubusercontent.com/14870879/215778309-f2d2e8d2-8098-4f93-85ef-1a8d01cbaf78.png">
 
 Created with the Ukelele OS X keyboard layout editor.
 
