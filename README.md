@@ -8,7 +8,7 @@ This is a "port" of the Linux keyboard layout "US keyboard with Estonian letters
 
 ```
 mkdir -p ~/Library/Keyboard\ Layouts; \
-  curl -Sso ~/Library/Keyboard\ Layouts/us_ee.keylayout \
+  curl -Sso ~/Library/Keyboard\ Layouts/us-ee.keylayout \
   https://github.com/nileve/mac_us-ee_keylayout/us-ee.keylayout
 ```
 Or download the disk image installer: US_with_EE-letters_installer.dmg
