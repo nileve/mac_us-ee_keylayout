@@ -11,6 +11,7 @@ mkdir -p ~/Library/Keyboard\ Layouts; \
   curl -Sso ~/Library/Keyboard\ Layouts/us_ee.keylayout \
   https://github.com/nileve/mac_us-ee_keylayout/us_ee.keylayout
 ```
+Or download the disk image installer: U.S. with EE letters.dmg
   
 ## Key mapping
 
